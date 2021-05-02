@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azurou
 - 👀 I’m interested in making video games.
 - 🌱 I’m currently learning to program.
-- 💞️ I’m looking to collaborate on github.
+- 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me hmmmmm, msg on my youtube channel!
 
 <!---
